@@ -164,5 +164,3 @@ python work/eval_metrics.py \
 - 环境文件：`environment.yml`
 - 视觉偏移与 replan 脚本：`work/eval_shift.py`
 - 离线动作误差脚本：`work/eval_metrics.py`
-- 训练曲线整理脚本：`work/extract_wandb_history.py`
-- 2000 step 评测汇总脚本：`work/run_task2_rerun_eval_suite.py`
